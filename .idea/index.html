@@ -3,29 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <title>Form</title>
-    <link href="style.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 <h2>Тестовое задание по формам</h2>
-<form>
+<form action="exampleback.php" method="post">
     <label>Поле ввода</label> <br>
     <input type="text"/>
 <br>
     <label>Поле ввода многих строк</label><br>
     <textarea>Тут будет много буков</textarea>
 <br>
-    <label for="radio">Поле ввода многих строк</label><br>
-    <input name="radio" value="radio 1" type="radio"/> radio 1
-    <input name="radio" value="radio 2" type="radio"/>radio 2
-    <input name="radio" value="radio 3" type="radio"/>radio 3
+    <label>Поле ввода многих строк</label><br>
+    <label><input name="radio" value="radio 1" type="radio"/> radio 1</label>
+    <label><input name="radio" value="radio 2" type="radio"/>radio 2</label>
+    <label><input name="radio" value="radio 3" type="radio"/>radio 3</label>
 <br>
-    <label for="checkbox">Чекбоксы</label><br>
-    <input name="checkbox" value="checkbox 1" type="checkbox"/> Чек бокс 1
-    <input name="checkbox" value="checkbox 2" type="checkbox"/> Чек бокс 2
-    <input name="checkbox" value="checkbox 3" type="checkbox"/> Чек бокс 3
-    <input name="checkbox" value="checkbox 4" type="checkbox"/> Чек бокс 4
+    <label>Чекбоксы</label><br>
+    <label><input name="checkbox" value="checkbox 1" type="checkbox"/> Чек бокс 1</label>
+    <label><input name="checkbox" value="checkbox 2" type="checkbox"/> Чек бокс 2</label>
+    <label><input name="checkbox" value="checkbox 3" type="checkbox"/> Чек бокс 3</label>
+    <label><input name="checkbox" value="checkbox 4" type="checkbox"/> Чек бокс 4</label>
 <br>
-    <label for="select">Выбрать вариант из списка</label><br>
+    <label>Выбрать вариант из списка</label><br>
     <select name="select">
         <option value="select 1">Вариант 1 из списка</option>
         <option value="select 2">Вариант 2 из списка</option>
@@ -34,7 +34,7 @@
         <option value="select 5">Вариант 5 из списка</option>
     </select>
 <br>
-    <label for="select">Выбрать вариант из списка</label><br>
+    <label>Выбрать вариант из списка</label><br>
     <select size="5" multiple name="select">
         <option value="select 1">Вариант 1 из списка</option>
         <option value="select 2">Вариант 2 из списка</option>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f3579ae-8f8c-4d9f-b160-170dad43f4d2" name="Changes" comment="commit for safety 2">
-      <change beforePath="$PROJECT_DIR$/.idea/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/web TASK.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/web TASK.html" afterDir="false" />
+    <list default="true" id="7f3579ae-8f8c-4d9f-b160-170dad43f4d2" name="Changes" comment="for checking 2">
+      <change beforePath="$PROJECT_DIR$/.idea/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gitignore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web TASK.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/web TASK.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,14 +32,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/sdous/IdeaProjects/WEB task/.idea"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sdous\IdeaProjects\WEB task\src " />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sdous\IdeaProjects\WEB task\src" />
+      <recent name="C:\Users\sdous\IdeaProjects\WEB task\src " />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659460013477</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="for checking">
+      <created>1659462401407</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659462401407</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +104,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit for safety" />
     <MESSAGE value="commit for safety 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit for safety 2" />
+    <MESSAGE value="for checking" />
+    <MESSAGE value="for checking 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="for checking 2" />
   </component>
 </project>
