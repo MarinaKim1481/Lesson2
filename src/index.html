@@ -7,14 +7,14 @@
 </head>
 <body>
 <h2>Тестовое задание по формам</h2>
-<form action="exampleback.php" method="post">
+<form action="exampleback.php" method="post" name="form">
     <label>Поле ввода</label> <br>
-    <input type="text"/>
+        <input type="text" name="testInput">
 <br>
     <label>Поле ввода многих строк</label><br>
-    <textarea>Тут будет много буков</textarea>
+    <textarea name="textareaInput">Тут будет много буков</textarea>
 <br>
-    <label>Поле ввода многих строк</label><br>
+    <label>Радио</label><br>
     <label><input name="radio" value="radio 1" type="radio"/> radio 1</label>
     <label><input name="radio" value="radio 2" type="radio"/>radio 2</label>
     <label><input name="radio" value="radio 3" type="radio"/>radio 3</label>
